@@ -32,7 +32,7 @@
 https://www.fimfiction.net/story/473467/anything-for-you-pinkie
 
 # Original cover:
-https://www.deviantart.com/cozmicpandawolf/art/Kisses-639050611, https://www.tumblr.com/themutemusicbox
+https://www.deviantart.com/cozmicpandawolf/art/Kisses-639050611, https://www.tumblr.com/themutemusicbox aka Cozmo
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
