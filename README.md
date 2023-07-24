@@ -1,7 +1,7 @@
-# /Назва Фанфіка/ - Українською
+# /"Anything for you, Pinkie."/ - Українською
 ![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/Pinkie Pie and Rainbow Dash have been dating for some time now. It's been nothing but awesome, and thus Rainbow's decided she wants to pop the question. There's just one tiny thing getting in the way: Pinkie once told her she had to meet a very specific condition if she ever wanted to get married. If Rainbow really wants to tie the knot, she'll have to resort to drastic measures./
 
 # Як відкрити? Де фанфік?
 пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/story/473467/anything-for-you-pinkie
 
 # Original cover:
-https://посилання_на_обкладинку
+https://www.deviantart.com/cozmicpandawolf/art/Kisses-639050611, https://www.tumblr.com/themutemusicbox
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
