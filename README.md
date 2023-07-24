@@ -1,5 +1,5 @@
 # /"Anything for you, Pinkie."/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+![обкладинка](https://github.com/Vovkiv/Anything_for_you_Pinkie-ukr/blob/main/src/cover-ukr.png?raw=true)
 
 /Pinkie Pie and Rainbow Dash have been dating for some time now. It's been nothing but awesome, and thus Rainbow's decided she wants to pop the question. There's just one tiny thing getting in the way: Pinkie once told her she had to meet a very specific condition if she ever wanted to get married. If Rainbow really wants to tie the knot, she'll have to resort to drastic measures./
 
