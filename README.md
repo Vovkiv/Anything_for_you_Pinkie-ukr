@@ -4,7 +4,7 @@
 /Pinkie Pie and Rainbow Dash have been dating for some time now. It's been nothing but awesome, and thus Rainbow's decided she wants to pop the question. There's just one tiny thing getting in the way: Pinkie once told her she had to meet a very specific condition if she ever wanted to get married. If Rainbow really wants to tie the knot, she'll have to resort to drastic measures./
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/Anything_for_you_Pinkie-ukr/blob/main/Anything%20for%20you%20Pinkie%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
